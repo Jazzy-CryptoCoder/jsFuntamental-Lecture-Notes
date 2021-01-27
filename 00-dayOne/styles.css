@@ -1,0 +1,76 @@
+body {
+    background-color:tomato;
+}
+.circle{
+    background-color: white;
+    height: 45em;
+    width: 45em;
+/*  Position: absolute will allow you to move the element anywhere on the page */
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left : 0;
+    right: 0;
+    /* margin auto applies an even margin on all sides of the element */
+    margin: auto;
+      border-radius: 50%;
+      background-origin: 5px 5px 50px Black;
+
+      }
+.topbun {
+    background-color: tan;
+    height:5.5em;
+    Width:10em;
+    position: absolute;
+    top:0;
+    Left:0;
+    bottom:15em;
+    Right:0;
+    Margin: auto;
+    border-radius:27% 27% 0 0 ;
+}   
+
+.ketchup {
+    background-color: red;
+    height:2em;
+    width: 28em;
+    position : absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+
+}
+ .patty {
+     background-color: brown;
+     height:4em;
+     width: 28em;
+     position:absolute;
+     top:0;
+     left:0;
+     bottom:0;
+     right: 0;
+     margin:auto;
+
+ }
+
+ .bottombun {
+     background-color: tan;
+     height:5.5em;
+     width:28em;
+     Position: absolute;
+     top:15em;
+     left:0;
+     right:0;
+     bottom:15em;
+     border-radius: 0 0 27% 27%;
+
+     
+ }
+ 
+
+
+ 
+      
+
+
